@@ -57,9 +57,10 @@ python --version
 ### Step 2: Clone or Download the Project
 ```
 git clone https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-.git
-OR download the ZIP and extract it.
 
 ```
+OR download the ZIP and extract it.
+
 ### Step 3: Navigate to Project Directory
 
 ```
