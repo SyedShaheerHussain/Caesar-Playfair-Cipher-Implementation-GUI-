@@ -2,6 +2,18 @@
 
 This project is a Python-based GUI cryptography tool that implements Caesar and Playfair ciphers. It allows users to encrypt and decrypt messages through an interactive, user-friendly interface while demonstrating core classical cryptography concepts in a practical and educational way.
 
+## Screenshots
+
+![Screenshot 1](https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-/blob/7187a003963169605bce88bc0c190c30e93920dc/screenshots/Screenshot%20(15).png)
+
+![Screenshot 2](https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-/blob/7187a003963169605bce88bc0c190c30e93920dc/screenshots/Screenshot%20(16).png)
+
+![Screenshot 3](https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-/blob/7187a003963169605bce88bc0c190c30e93920dc/screenshots/Screenshot%20(17).png)
+
+![Screenshot 4](https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-/blob/7187a003963169605bce88bc0c190c30e93920dc/screenshots/Screenshot%20(18).png)
+
+![Screenshot 5](https://github.com/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-/blob/7187a003963169605bce88bc0c190c30e93920dc/screenshots/Screenshot%20(18).png)
+
 ## 📌 Project Overview
 This project is a Python-based graphical cryptography application that demonstrates **classical encryption and decryption techniques** using **Caesar Cipher** and **Playfair Cipher**. The tool is designed for beginners to intermediate learners to understand how classical ciphers work through a **clean, interactive, and user-friendly GUI**. Users can easily encrypt and decrypt messages while visually interacting with the cryptographic process.
 
