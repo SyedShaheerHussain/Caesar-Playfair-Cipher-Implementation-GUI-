@@ -133,6 +133,24 @@ The GUI window will open automatically.
 
 Developed as an educational cryptography project using Python. (**© Syed Shaheer Hussain**)
 
+## ⭐ Support & Engagement
+
+If you find this repository useful or insightful, please consider:
+
+- ⭐ Starring the repository
+- 🔁 Sharing it within your network
+- 👤 Following my GitHub profile for future projects and updates
+
+Your support helps drive continued innovation and open-source contributions.
+
+— Syed Shaheer Hussain
+
+[![GitHub followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Follow&style=social)](https://github.com/SyedShaheerHussain)
+
+![Followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Followers&color=blue)
+
+![Stars](https://img.shields.io/github/stars/SyedShaheerHussain/Caesar-Playfair-Cipher-Implementation-GUI-?label=Stars&color=yellow)
+
 ## 📜 License
 > [!NOTE]
 > This project is open-source and free to use for educational purposes.
